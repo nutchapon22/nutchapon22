@@ -9,8 +9,10 @@
 
 ## 😺 me!
 
-<p>Hi, I'm Bobcat, and i like to do fun things i like to coding(Maybe😅)
-i intresting in web, game, app, i like to learning new things, and i like to meet new people!, 
+<p>Hey, I’m Bobcat! 👋
+I enjoy coding... well, most of the time 😆
+I’m into web development, game development, and app development. I love learning new things, exploring new ideas, and meeting awesome people along the way.
+Still learning, still building, still occasionally breaking things—and honestly, that’s part of the fun.
 </p>
 
 ## 🛠️ My Tech Stack
