@@ -21,6 +21,7 @@ Still learning, still building, still occasionally breaking things—and honestl
 <p>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/SQL-%23003B57.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </p>
@@ -44,9 +45,8 @@ Still learning, still building, still occasionally breaking things—and honestl
 
 ### Game
 <p>
-  <img src="https://img.shields.io/badge/Godot-%2302569B.svg?style=for-the-badge&logo=Godot&logoColor=white" alt="Godot" />
-  
-  <img src="https://img.shields.io/badge/Ren'Py-%23F7DF1E.svg?style=for-the-badge&logo=Ren'Py&logoColor=white" alt="Ren'Py" />
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot" />
+  <img src="https://img.shields.io/badge/Ren'Py-FF7F7F?style=for-the-badge" alt="Ren'Py" />
 </p>
 
 ---
